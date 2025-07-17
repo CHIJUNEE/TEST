@@ -1,1 +1,1 @@
-![image](./sprint1_landingpage.png)
+![image](C:\Users\clwns\Desktop\sprint1_landingpage.png)
