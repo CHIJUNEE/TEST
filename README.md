@@ -1,1 +1,1 @@
-![image](./landingpage.png)
+![image](/sprint1_landingpage.png)
