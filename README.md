@@ -1,1 +1,1 @@
-![image](landingpage.png)
+![image](./landingpage.png)
